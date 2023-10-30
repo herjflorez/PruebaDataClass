@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PruebaDataClass</string>
+    <string name="button_add_user">+ Añadir Usuario</string>
+</resources>
