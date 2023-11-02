@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
         addUser.setOnClickListener{
             arrayUsers.add(User(
                 image = "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
-                nombre = "Hernando",
+                nombre = "Abel",
                 apellido = "Florez",
                 email = "a@a.com",
                 direccion = Direccion(ciudad = "Barcelona", calle = "Carrer pelayo", portal = 113, piso = 2, puerta = 4, cp = "08011"),
